@@ -1,0 +1,21 @@
+plantas exoticas e raras
+animais raros
+onde é encontrado
+alimentação
+extinção
+
+https://www.todamateria.com.br/animais-extintos/
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+font-family: 'Sriracha', cursive;
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+font-family: 'Dancing Script', cursive;
+
+#00FA00
+#00BA00
+#006E00
+#007A00
+#005400
