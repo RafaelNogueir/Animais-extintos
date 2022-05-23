@@ -57,7 +57,7 @@ section{
 
 section > p{
     padding-bottom: 2em;
-    min-width: 250px;
+    
 }
 
 section.normal{
@@ -82,36 +82,36 @@ section.imagem > p{
 
 section#rato{
     background-image: url('imagens/rato\ noronha.jpg');
-    background-position: right center;
+    background-position: left center;
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: 35%;
 }
 
 section#cabure{
     background-image: url('imagens/cabure.jpg');
-    background-position: right center;
+    background-position: left center;
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: 35%;
 }
 
 section#gritador{
     background-image: url('imagens/gritador.png');
-    background-position: right center;
+    background-position: left center;
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: 30%;
 }
 
 section#folha{
     background-image: url('imagens/limpa\ folha.jpg');
-    background-position: right center;
+    background-position: left center;
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: 35%;
 }
 
 section#macarico{
     background-color: #FCFFF4;
     background-image: url('imagens/macarico.jpg');
-    background-position: right center;
+    background-position: left center;
     background-repeat: no-repeat;
     background-size: 35%;
 }
