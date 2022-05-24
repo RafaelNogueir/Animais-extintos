@@ -76,7 +76,7 @@ section.imagem{
 section.imagem > p{
     display: inline-block;
     padding: 100px;
-    text-align: right center;
+    text-align: center right;
     
 }
 
@@ -85,6 +85,7 @@ section#rato{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 35%;
+    padding: 50px;
 }
 
 section#cabure{
@@ -92,6 +93,7 @@ section#cabure{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 35%;
+    padding: 50px;
 }
 
 section#gritador{
@@ -99,6 +101,7 @@ section#gritador{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 30%;
+    padding: 100px;
 }
 
 section#folha{
@@ -106,6 +109,7 @@ section#folha{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 35%;
+    padding: 100px;
 }
 
 section#macarico{
@@ -114,6 +118,7 @@ section#macarico{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 35%;
+    padding: 150px;
 }
 
 footer{
